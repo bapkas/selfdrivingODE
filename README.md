@@ -7,3 +7,6 @@ A model using the following assumptions:
 - x′_M (t) = gxM (t).
 
 We get the model by solving the system of ODE's we get from above using Euler's method for solving ODE's.
+
+## To run it yourself
+Clone repo and run selfdrivingODE.m file with hastighet.m file in the same directory. Will run an animation of the cars.
